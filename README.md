@@ -1,0 +1,1 @@
+This is a web "extension" that makes the new tab an html file with nothing in it. It needs to be installed manually. You can download it as a zip through github and there it is. It won't translate the new tab title; edit it.
